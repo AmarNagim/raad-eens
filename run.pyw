@@ -6,7 +6,7 @@ import time
 import pyautogui
 
 path = os.getcwd() and __file__
-file = 'raadeens'
+file = "raadeens"                     # input name of program 
 
 
 os.system(f'start cmd {path}')
